@@ -15,4 +15,8 @@ public class TangibleAsset extends Asset {
         this.color = color;
     }
 
+    public void Depreciation() {
+
+    }
+
 }
